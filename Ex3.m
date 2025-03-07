@@ -1,6 +1,5 @@
 %% Image Processing Homework 3:
-% Etai Wigman - 315875385      Itzik Nsimov - 206697849
-disp("Etai Wigman 315875385     Itzik Nsimov 206697849")
+
 %% 1) 2D-Fourier Transform
 %% 1.1) Writing Fucntions and using on beatles.png
 clear variables
